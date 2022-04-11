@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yV+hRCNFlSBwgSBNszMmTqL0P+VeT2Gf0nCB9tWOcd872aoNgdlEW5wAf3w0DJVf0vSWhKyRpQ9gGBB8JqX2lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ibm\\Desktop\\CallTask\\TaskCall\\CallTask\\CallTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibm\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\ibm\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\ibm\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
